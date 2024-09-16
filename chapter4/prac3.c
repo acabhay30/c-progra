@@ -17,6 +17,7 @@ int main() {
 }
 
 
+// sum += i is shorthand for sum = sum + i.
 // Example with the Loop:
 // Let’s walk through the code for a few iterations to understand how it works:
 
