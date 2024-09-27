@@ -9,6 +9,8 @@ int main()
     // {
     //     sum = sum + n*i;
     // }
+
+    
     while (i <= 10)
     {
         sum = sum + n*i; // placement of increment operator can give give different answer
